@@ -1,0 +1,15 @@
+{
+  "name": "Dip",
+  "address": {
+    "road no.": "999/99",
+    "village": "Elongi",
+    "city": "Kushtia"
+  },
+  "skills": [
+    "Python",
+    "C",
+    "graphic design"
+  ],
+  "student": true,
+  "girlfriend": null
+}
