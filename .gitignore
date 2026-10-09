@@ -1,4 +1,14 @@
+# Virtual environments
 venv/
+venv311/
+.venv/
+
+# Python cache
 __pycache__/
-*.pyc
+*.py[cod]
+
+# Environment variables / secrets
 .env
+
+# VS Code
+.vscode/
