@@ -12,3 +12,10 @@ __pycache__/
 
 # VS Code
 .vscode/
+
+# CSV files
+*.csv
+
+# Excel files
+*.xlsx
+*.xls
