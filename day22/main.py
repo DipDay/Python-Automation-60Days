@@ -3,9 +3,11 @@ from openpyxl import load_workbook
 from openpyxl.utils import get_column_letter
 from openpyxl.chart import BarChart, Reference
 from openpyxl.styles import Font, PatternFill, Alignment
+from pathlib import Path
 
-input_path = "E:\\Code\\Python-Automation-60Days\\day22\\sales.xlsx"
-output_path = "E:\\Code\\Python-Automation-60Days\\day22\\sales_report.xlsx"
+BASE_DIR = Path(__file__).resolve().parent
+input_path = BASE_DIR / "sales.xlsx"
+output_path = BASE_DIR / "sales_report.xlsx"
 
 df = pd.read_excel(input_path)
 print(df.head())
