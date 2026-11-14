@@ -19,3 +19,5 @@ __pycache__/
 # Excel files
 *.xlsx
 *.xls
+
+!day22/*.xlsx
