@@ -45,7 +45,7 @@ try:
             product_url = product.find_element(
                 By.CSS_SELECTOR,
                 # "a"
-                "a.woocommerce-loop-Product-link, a.button"
+                "a.woocommerce-loop-product__link"
             )
 
             product_data = {
