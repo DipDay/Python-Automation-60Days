@@ -37,13 +37,13 @@ day32/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/DipDay/Python-Automation-60Days.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd YOUR_REPOSITORY/day32
+cd Python-Automation-60Days/day32
 ```
 
 Install the required libraries:
