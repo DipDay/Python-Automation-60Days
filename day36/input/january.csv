@@ -1,0 +1,4 @@
+order_id,customer,amount,status
+101,Rahim,1500,Completed
+102,Karim,2500,Pending
+103,Hasan,1800,Completed

@@ -21,3 +21,4 @@ __pycache__/
 *.xls
 
 !day22/*.xlsx
+!day36/input/*.csv
